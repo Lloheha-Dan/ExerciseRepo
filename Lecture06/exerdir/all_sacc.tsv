@@ -1,0 +1,4 @@
+#!/bin/bash
+input_file="blastoutput2.out"
+
+grep -v "^#" "$input_file" | cut -f 2

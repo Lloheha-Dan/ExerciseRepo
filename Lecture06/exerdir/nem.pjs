@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "nem",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "nem.fasta",
+  "number-of-letters": 21863955,
+  "number-of-sequences": 59832,
+  "last-updated": "2026-10-09T12:47:00",
+  "number-of-volumes": 1,
+  "bytes-total": 32172409,
+  "bytes-to-cache": 22402532,
+  "files": [
+    "nem.pdb",
+    "nem.phr",
+    "nem.pin",
+    "nem.pot",
+    "nem.psq",
+    "nem.ptf",
+    "nem.pto"
+  ]
+}
